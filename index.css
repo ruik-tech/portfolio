@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-VariableFont_wght.ttf);
+}
+
+p {
+    font-family: 'Montserrat';
+    position: absolute;
+    bottom: 0;
+}
+div {
+    font-family: Montserrat;
+    text-shadow: 0px 0px 8px #292929;
+    position: fixed
+}
+h1 {
+    font-family: Montserrat;
+    text-shadow: 0px 0px 8px #292929;
+    position: fixed
+}
+button {
+    position: absolute;
+    box-shadow: 0px 0px 5px #292929;
+    bottom: 50px;
+    background-color: #5cbeff;
+    color: white;
+    border-radius: 25px;
+    border-color: #81cdff;
+    border-style: solid;
+    font-family: Montserrat;
+    font-size: 24px;
+    display: inline-block;
+    position: fixed
+}
+a:link, a:visited {
+  color: white;
+  text-decoration: none;
+  cursor: auto;
+}
